@@ -1,0 +1,8 @@
+w 0
+res r1 1 3 2
+res r2 2 0 4
+res r3 1 0 2
+isrc i1 2 0 10 0
+vcvs v1 2 3 1 3 2
+res r4 3 0 1
+vsrc v1 1 2 20 0
